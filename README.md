@@ -48,7 +48,7 @@ yum install python36-devel
 为保持与源码配置一致，请将源码克隆至/root目录下。
 
 如果要放置到其他目录，请自行打开uwsgi.ini进行配置修改。
-git clone https://github.com/licyun/mmpic.git
+git clone https://github.com/initialf2020/52mmpic.git
 
 进入程序目录
 cd mmpic
